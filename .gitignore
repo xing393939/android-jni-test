@@ -21,9 +21,6 @@ $RECYCLE.BIN/
 .gradle
 .idea
 build/
-gradlew
-gradlew.bat
-gradle/
 *.iml
 .gitattributes
 
